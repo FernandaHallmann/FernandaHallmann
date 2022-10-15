@@ -1,10 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Fernanda!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+> Tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de me tornar uma desenvolvedora
 
 ----
 
@@ -34,5 +30,3 @@
 ## :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Fernanda Hallmann](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-hallmann/)](https://www.linkedin.com/in/fernanda-hallmann/)
-
-![Snake animation](https://github.com/FernandinhaBart/FernandinhaBart/blob/output/github-contribution-grid-snake.svg)
