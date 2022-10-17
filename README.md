@@ -9,7 +9,7 @@
 <div>
   <img height="50" src="https://github.com/github/explore/blob/958e74355c78af2f68a590e7ea3a88e7a2c8111b/topics/python/python.png">&nbsp;
   <img height="40" src="https://github.com/github/explore/blob/958e74355c78af2f68a590e7ea3a88e7a2c8111b/topics/javascript/javascript.png">&nbsp;
-  <img height="50" src="https://github.com/github/explore/blob/958e74355c78af2f68a590e7ea3a88e7a2c8111b/topics/html/html.png">
+  <img height="50" src="https://github.com/github/explore/blob/958e74355c78af2f68a590e7ea3a88e7a2c8111b/topics/html/html.png">&nbsp;
   <img height="50" src="https://github.com/github/explore/blob/958e74355c78af2f68a590e7ea3a88e7a2c8111b/topics/css/css.png">&nbsp;
   <img height="40" src="https://github.com/github/explore/blob/958e74355c78af2f68a590e7ea3a88e7a2c8111b/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;
   <img height="40" src="https://github.com/github/explore/blob/958e74355c78af2f68a590e7ea3a88e7a2c8111b/topics/pycharm/pycharm.png">&nbsp;
