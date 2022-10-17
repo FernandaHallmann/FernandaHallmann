@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Fernanda!</strong>
 
-> Tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de me tornar uma desenvolvedora
+- Tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de me tornar uma desenvolvedora
 
 ----
 
