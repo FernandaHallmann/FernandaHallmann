@@ -20,11 +20,11 @@
 ## ⭐ Informações sobre minha conta GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=FernandinhaBart&theme=radical" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=FernandinhaBart&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinhaBart&hide=html&layout=compact&theme=radical" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinhaBart&hide=html&layout=compact&theme=radical" />
 </a>
 
 ---
